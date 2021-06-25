@@ -1,0 +1,1 @@
+[2021-06-01,10:32:19.861] - [ERROR] : The publishing management machine is different from the region to be published.  region name: hn02-udisk-support  publish machine: shpre01-udisk-150-123 publish machine ip:192.168.150.123 -  [check_deploy_everonment.py:66]

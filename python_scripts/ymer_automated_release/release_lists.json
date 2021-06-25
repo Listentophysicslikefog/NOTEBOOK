@@ -1,0 +1,19 @@
+{
+    "release_info" :[
+        {
+         "region":"hn02" , 
+         "set":[3101,1100] , 
+         "release_type" : "non-p2p",
+         "release_one_region" : "No", 
+         "clone_image" : "bsi-o1y4hh",
+         "image_size": 20
+        }
+    ],
+    "version"        :"21.03.23-482fb97-centos7-x86_64",
+    "//version"      :"idun 21.03.23-482fb97-centos7-x86_64",
+    "deploy_center"  :"172.20.180.156",
+    "//发布时间"       :"定时任务触发发布时会检测当前时间是否是系统规定的时间",
+    "release_date"   :"2021051011"
+}
+
+
